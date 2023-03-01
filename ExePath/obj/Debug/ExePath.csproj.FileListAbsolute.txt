@@ -1,0 +1,8 @@
+C:\Users\gabri\source\repos\ExePath\ExePath\bin\Debug\ExePath.exe.config
+C:\Users\gabri\source\repos\ExePath\ExePath\bin\Debug\ExePath.exe
+C:\Users\gabri\source\repos\ExePath\ExePath\bin\Debug\ExePath.pdb
+C:\Users\gabri\source\repos\ExePath\ExePath\obj\Debug\ExePath.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\ExePath\ExePath\obj\Debug\ExePath.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\ExePath\ExePath\obj\Debug\ExePath.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ExePath\ExePath\obj\Debug\ExePath.exe
+C:\Users\gabri\source\repos\ExePath\ExePath\obj\Debug\ExePath.pdb
